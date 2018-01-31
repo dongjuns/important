@@ -1,0 +1,14 @@
+# nevt = 1
+# DataSetName = /WMinusH_HToMuMu_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+# name = WMinusH_HToMuMu
+# title = WMinusH_H#rightarrow MuMu
+# type = powheg
+# colour = 800
+# lumi = 0.0
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/WMinusH_HToMuMu_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/171130_032520
+# xsec = 0.0001164
+# avgWgt = 1.0
+# options = 
+# size = 140168644
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/WMinusH_HToMuMu_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/171130_032520/0000/nanoAOD_1.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/WMinusH_HToMuMu_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/171130_032520/0000/nanoAOD_2.root

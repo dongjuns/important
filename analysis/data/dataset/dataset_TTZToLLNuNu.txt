@@ -1,0 +1,48 @@
+# nevt = 0
+# DataSetName = /TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM
+# name = TTZToLLNuNu
+# title = TopPair
+# type = aMC
+# colour = 632
+# lumi = 0.0
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619
+# xsec = 0.2529
+# avgWgt = 0.0
+# options = 
+# size = 3365535256
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_1.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_10.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_11.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_12.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_13.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_14.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_15.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_16.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_17.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_18.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_19.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_2.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_20.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_21.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_22.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_23.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_24.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_25.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_26.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_27.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_28.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_29.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_3.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_30.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_31.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_32.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_33.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_34.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_35.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_36.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_4.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_5.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_6.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_7.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_8.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/171212_065619/0000/nanoAOD_9.root

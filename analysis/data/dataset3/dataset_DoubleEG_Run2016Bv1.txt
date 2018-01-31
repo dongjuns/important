@@ -1,0 +1,64 @@
+# nevt = 0
+# DataSetName = /DoubleEG/Run2016B-18Apr2017_ver1-v1/MINIAOD
+# name = DoubleEG_Run2016Bv1
+# title = DoubleEG
+# type = Data
+# colour = 0
+# lumi = 0.0
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931
+# xsec = 0.0
+# avgWgt = 1.0
+# options = globalTag=80X_dataRun2_2016LegacyRepro_v3
+# size = 2766262998
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_1.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_10.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_11.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_12.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_13.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_14.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_15.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_16.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_17.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_18.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_19.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_2.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_20.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_21.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_22.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_23.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_24.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_25.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_26.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_27.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_28.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_29.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_3.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_30.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_31.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_32.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_33.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_34.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_35.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_36.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_37.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_38.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_39.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_4.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_40.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_41.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_42.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_43.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_44.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_45.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_46.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_47.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_48.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_49.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_5.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_50.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_51.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_52.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_6.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_7.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_8.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v3/DoubleEG/Run2016B-18Apr2017_ver1-v1/180124_073931/0000/nanoAOD_9.root

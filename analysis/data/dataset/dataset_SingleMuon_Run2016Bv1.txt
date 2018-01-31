@@ -1,0 +1,36 @@
+# nevt = 0
+# DataSetName = /SingleMuon/Run2016B-18Apr2017_ver1-v1/MINIAOD
+# name = SingleMuon_Run2016Bv1
+# title = SingleMuon
+# type = Data
+# colour = 0
+# lumi = 0.0
+# path = root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/
+# xsec = 0.0
+# avgWgt = 1.0
+# options = globalTag=80X_dataRun2_2016LegacyRepro_v3
+# size = 1167385946
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_1.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_10.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_11.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_12.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_13.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_14.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_15.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_16.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_17.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_18.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_19.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_2.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_20.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_21.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_22.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_23.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_24.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_3.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_4.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_5.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_6.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_7.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_8.root
+root://cms-xrdr.sdfarm.kr:1094///xrd/store/group/nanoAOD/run2_2016v2/SingleMuon/Run2016B-18Apr2017_ver1-v1/171220_071409/0000/nanoAOD_9.root

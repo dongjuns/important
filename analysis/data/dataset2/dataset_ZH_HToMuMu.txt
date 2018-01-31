@@ -1,0 +1,12 @@
+# nevt = 1
+# DataSetName = /ZH_HToMuMu_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+# name = ZH_HToMuMu
+# title = ZH_H#rightarrow MuMu
+# type = powheg
+# colour = 800
+# lumi = 0.0
+# path = root://cms-xrdr.sdfarm.kr:1094///xrdtest
+# xsec = 0.0002136
+# avgWgt = 1.0
+# options = globalTag=80X_mcRun2_asymptotic_2016_TrancheIV_v8
+# size = 0

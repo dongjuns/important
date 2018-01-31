@@ -1,0 +1,4 @@
+TClassTable::Add:0: RuntimeWarning: class CrystalBall already in TClassTable
+TClassTable::Add:0: RuntimeWarning: class RocRes already in TClassTable
+TClassTable::Add:0: RuntimeWarning: class RocOne already in TClassTable
+TClassTable::Add:0: RuntimeWarning: class RoccoR already in TClassTable
